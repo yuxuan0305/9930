@@ -1,6 +1,6 @@
 # 9930 | Company Overview and Platform Vision
 
-9930 is a wound care and infection-control venture focused on building a more effective, scalable, and modern approach to healing. We are developing a platform that combines product innovation, commercialization strategy, and future care infrastructure to improve how wounds are treated across consumer, clinical, and professional-use settings.
+9930 is a health-conscious wound care and infection-control venture building a modern healing platform rooted in both traditional wisdom and contemporary innovation. Our approach combines principles inspired by Traditional Chinese Medicine (TCM), natural-ingredient product development, and modern technology to create practical, scalable solutions for healing and recovery.
 
 This repository serves as the public-facing overview of the company’s vision, product platform, market direction, and long-term technology roadmap.
 
@@ -8,22 +8,29 @@ This repository serves as the public-facing overview of the company’s vision, 
 
 ## Mission
 
-To advance wound healing and infection control through practical innovation, strong execution, and scalable care systems.
+To provide freedom and independence for those who suffer from infections
+
+---
+
+## Our Approach
+
+9930 is built on the belief that the future of healing does not have to choose between tradition and innovation. We aim to bring together:
+
+- healing principles inspired by Traditional Chinese Medicine
+- natural-ingredient, health-conscious formulation philosophy
+- modern product development and commercialization
+- long-term technology and AI-enabled care infrastructure
+
+Our goal is to create solutions that are practical, trusted, and aligned with a more thoughtful and wholeistic vision of health and recovery.
 
 ---
 
 ## Why This Exists
 
-Wound care remains fragmented across products, channels, and care settings. Consumers, clinics, and professional operators often face solutions that are inconsistent, outdated, difficult to differentiate, or not designed for long-term system integration.
+Wound care remains fragmented across products, channels, and care settings. Many existing solutions are either overly conventional, difficult to differentiate, or disconnected from broader systems of care. Moreover, the rise of antibiotics and modern drugs has shown exponential side effects associated with long-term use.
 
-9930 is being built to address that gap through a more cohesive platform approach:
-
-- product-led healing and infection-control solutions
-- clear market positioning across multiple use cases
-- structured commercialization strategy
-- future integration of digital and AI-assisted care workflows
-
-Our goal is not just to launch products, but to build a scalable platform around better healing outcomes.
+9930 is being built to address that gap through a more integrated platform approach — one that combines natural ingredients, health-conscious design, and modern execution.
+We believe there is room for a new category of wound-care company: one that respects traditional healing knowledge, embraces modern technology, and builds for the future of sustainable, scalable care. 
 
 ---
 
@@ -31,23 +38,44 @@ Our goal is not just to launch products, but to build a scalable platform around
 
 9930 is being developed around three core pillars:
 
-### 1. Product Platform
-A focused portfolio in wound care and infection-control, designed to address real-world healing needs with practical, market-ready solutions.
+### 1. Health Conscious-Ingredient Product Platform
+A focused portfolio in wound care and infection control built around health-conscious principles and natural ingredients, designed to support healing in a practical, sustainable, no side-effect, and market-ready way.
 
 ### 2. Commercialization Engine
-A go-to-market model built around retail, clinical, professional-use, and strategic distribution opportunities, with emphasis on disciplined market entry and brand positioning.
+A go-to-market model built around retail, clinical, professional-use, and strategic distribution opportunities, with emphasis on disciplined market entry, strong brand positioning, and trust.
 
 ### 3. Technology and Care Infrastructure
-A longer-term vision for integrating operational systems, digital workflows, and AI-enabled support into the broader wound-care platform.
+A longer-term vision for integrating operational systems, digital workflows, and AI-powered support into the broader wound-care platform.
+
+---
+
+## What Makes 9930 Different
+
+9930 is being built at the intersection of several important forces:
+
+- **Traditional Chinese Medicine inspiration**  
+  We draw from the broader philosophy and healing orientation of TCM as part of how we think about recovery, balance, sustainability, and care. 
+
+- **Natural-ingredient philosophy**  
+  We are committed to a health-conscious approach and believe product design should align with cleaner, more thoughtful ingredient choices whenever possible.
+
+- **Modern execution**  
+  We pair this philosophy with contemporary product strategy, disciplined commercialization, and scalable systems thinking.
+
+- **Future-facing technology**  
+  Over time, we aim to integrate digital infrastructure, knowledge systems, and AI-assisted workflows into the platform.
+
+This combination is central to the identity of 9930.
 
 ---
 
 ## Strategic Focus
 
-9930 is being built with a systems mindset. That means the company is not being approached as a single-product business, but as a scalable operating platform spanning:
+9930 is being built with a systems mindset. That means the company is not being approached as a single-product business, but as a scalable platform spanning:
 
 - wound care
 - infection control
+- natural-ingredient product development
 - brand and distribution strategy
 - regulatory pathway planning
 - operational execution
