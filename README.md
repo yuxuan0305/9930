@@ -105,5 +105,4 @@ This repository is organized as a public overview of the company and its broader
 │   ├── outcomes/
 │   ├── locations/
 │   ├── products/
-│   └── slides/
 └── .gitignore
