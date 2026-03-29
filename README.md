@@ -2,7 +2,7 @@
 
 9930 is a health-conscious wound care and infection-control venture building a modern healing platform rooted in both traditional wisdom and contemporary innovation. Our approach combines principles inspired by Traditional Chinese Medicine (TCM), natural-ingredient product development, and modern technology to create practical, scalable solutions for healing and recovery.
 
-With over sucessful 20 pilot locations in China, we are now launching the finalized business in Canada and the US.
+With sucessful pilot locations in China, we are now launching the finalized business in Canada and the US.
 
 This repository serves as the public-facing overview of the company’s vision, product platform, market direction, and long-term technology roadmap.
 
