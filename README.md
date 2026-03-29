@@ -102,10 +102,8 @@ This repository is organized as a public overview of the company and its broader
 │   ├── technology-and-ai.md
 │   └── roadmap.md
 ├── assets/
-│   ├── branding/
-│   ├── diagrams/
-│   ├── product-images/
-│   └── visuals/
-├── presentations/
-│   └── public-deck/
+│   ├── outcomes/
+│   ├── locations/
+│   ├── products/
+│   └── slides/
 └── .gitignore
